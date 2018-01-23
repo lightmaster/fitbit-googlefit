@@ -48,7 +48,7 @@ This is a python3 application so install all the dependencies
 
 - Make sure you have Python or higher installed ```sudo apt update && sudo apt install python3```
 - Make sure you have Virtualenv installed ```sudo apt install virtualenv```
-- Clone the repository using the link green `Clone or Download` at the top and cd into it (cd where you want it saved at first) ```git clone ***link***``` and ```cd ./fitbit-googlefit```
+- Clone the repository using the link green `Clone or Download` at the top and cd into it (cd where you want it saved at first) ```git clone https://github.com/lightmaster/fitbit-googlefit.git``` and ```cd ./fitbit-googlefit```
 - Run app.py ```python3 app.py```
 
 App.py will now create a virtualenv called fitbitenv, source this new virtualenv, and use pip3 to install its necessary dependencies.
